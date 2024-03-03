@@ -1,4 +1,4 @@
-# ml-final-project (discontinued)
+# (discontinued)
 This is the repository of Aprendizagem Automática's (Machine Learning) final project.
 
 The data provided is in two pickle files, one for training (rateBeer75Ktrain.p) with 75,000 beer reviews, and another for testing (rateBeer25Ktest.p) with 25,000 beer reviews. The data was extracted from the ratebeer website, which collected over a period of ten years.
